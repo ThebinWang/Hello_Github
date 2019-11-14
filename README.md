@@ -1,1 +1,2 @@
-# Hello_Github
+Hello Github!
+this is the first day on there.
